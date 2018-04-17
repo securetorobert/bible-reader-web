@@ -2,7 +2,7 @@
   "name": "bible-reader-web-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://securetorobert.github.io/bible-reader-app/build",
+  "homepage": "https://securetorobert.github.io/bible-reader-web/build",
   "dependencies": {
     "@firebase/firestore": "^0.3.2",
     "firebase": "^4.8.2",
